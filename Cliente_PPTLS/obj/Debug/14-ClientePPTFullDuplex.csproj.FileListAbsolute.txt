@@ -1,0 +1,9 @@
+C:\Users\luis\Desktop\sockets2015\14-ClientePPTFullDuplex\bin\Debug\14-ClientePPTFullDuplex.exe.config
+C:\Users\luis\Desktop\sockets2015\14-ClientePPTFullDuplex\obj\Debug\14-ClientePPTFullDuplex.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\sockets2015\14-ClientePPTFullDuplex\obj\Debug\_14_ClientePPTFullDuplex.Form1.resources
+C:\Users\luis\Desktop\sockets2015\14-ClientePPTFullDuplex\obj\Debug\_14_ClientePPTFullDuplex.Properties.Resources.resources
+C:\Users\luis\Desktop\sockets2015\14-ClientePPTFullDuplex\obj\Debug\14-ClientePPTFullDuplex.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\sockets2015\14-ClientePPTFullDuplex\bin\Debug\14-ClientePPTFullDuplex.exe
+C:\Users\luis\Desktop\sockets2015\14-ClientePPTFullDuplex\bin\Debug\14-ClientePPTFullDuplex.pdb
+C:\Users\luis\Desktop\sockets2015\14-ClientePPTFullDuplex\obj\Debug\14-ClientePPTFullDuplex.exe
+C:\Users\luis\Desktop\sockets2015\14-ClientePPTFullDuplex\obj\Debug\14-ClientePPTFullDuplex.pdb

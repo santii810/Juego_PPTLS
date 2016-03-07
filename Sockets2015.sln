@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor_PPTLS", "13-ServidorPPTFullDuplex\Servidor_PPTLS.csproj", "{282B3385-1493-40C7-8C3D-49BF3FC06091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente_PPTLS", "14-ClientePPTFullDuplex\Cliente_PPTLS.csproj", "{89DD068B-9A04-4491-A01D-24E5D8643789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{282B3385-1493-40C7-8C3D-49BF3FC06091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282B3385-1493-40C7-8C3D-49BF3FC06091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282B3385-1493-40C7-8C3D-49BF3FC06091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282B3385-1493-40C7-8C3D-49BF3FC06091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89DD068B-9A04-4491-A01D-24E5D8643789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DD068B-9A04-4491-A01D-24E5D8643789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DD068B-9A04-4491-A01D-24E5D8643789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DD068B-9A04-4491-A01D-24E5D8643789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
